@@ -1,2 +1,0 @@
-# JavaLoginPracticeApp
-JavaLoginPracticeApp
